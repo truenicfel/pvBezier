@@ -1,6 +1,6 @@
 # Reference Implementation for Parallel Vectors Extraction using Bézier Clipping
 
-![representative-image](https://github.com/truenicfel/vfe-demo/assets/22738910/016eea43-bef3-4b9b-bee5-5b856df5cb54)
+<img width="3806" height="1243" alt="teaser" src="https://github.com/user-attachments/assets/c9412218-bf1a-4734-b6e9-9c12f6a22a5e" />
 
 ## About
 
